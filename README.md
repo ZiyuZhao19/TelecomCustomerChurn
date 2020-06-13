@@ -26,3 +26,5 @@ Customer attrition analysis with data visualization and machine learning
       
     Section 3: Fairness Audit
   
+## Collaboration
+  This project is group work. I was responsible for the EDA comparison analysis part and the primary model training and tuning task. EDA general analysis and Fairness audit tasks were undertaken by Xuechuan Song.
